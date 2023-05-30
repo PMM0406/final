@@ -1,0 +1,19 @@
+body {
+	background-color: mediumseagreen;
+}
+
+h1 {
+	color: blue;
+}
+
+img {
+	border-radius: 100%;
+}
+
+p.frame {
+	border: 4px solid blue;
+}
+
+p.noframe{
+	color: white;
+}
